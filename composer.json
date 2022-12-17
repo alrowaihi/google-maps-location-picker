@@ -4,7 +4,8 @@
     "description": "A Filament form component that shows google map and let you pick up location by clicking in the map",
     "type": "library",
     "require": {
-        "php": ">=7.4"
+        "php": "^8.0",
+        "filament/filament": "^2.0"
     },
     "authors": [
         {
@@ -16,5 +17,6 @@
         "psr-4": {
             "Alrowaihi\\GoogleMapsLocationPicker\\": "src/"
         }
-    }
+    },
+
 }
