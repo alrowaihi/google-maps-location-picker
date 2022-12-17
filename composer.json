@@ -15,7 +15,14 @@
     ],
     "autoload": {
         "psr-4": {
-            "Alrowaihi\\GoogleMapsLocationPicker\\": "src/"
+            "Alrowaihi\\AlrowaihiGoogleMapLocationPicker\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Alrowaihi\\AlrowaihiGoogleMapLocationPicker\\AlrowaihiGoogleMapLocationPickerProvider"
+            ]
         }
     }
 
