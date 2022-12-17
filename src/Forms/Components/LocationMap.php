@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Forms\Components;
+namespace Alrowaihi\GoogleMapsLocationPicker\Forms\Components;
 
 use Exception;
 use Filament\Forms\Components\Field;
