@@ -1,8 +1,15 @@
 {
+    "license": "MIT",
     "name": "alrowaihi/google-maps-location-picker",
     "description": "A Filament form component that shows google map and let you pick up location by clicking in the map",
+    "type": "library",
     "require": {
-        "php": ">=7.4",
-        "another-vendor/package": "1.0"
-    }
+        "php": ">=7.4"
+    },
+    "authors": [
+        {
+            "name": "Morad Al-Rowaihi",
+            "email": "m.alrowaihi@gmail.com"
+        }
+    ]
 }
