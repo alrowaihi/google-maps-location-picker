@@ -11,5 +11,10 @@
             "name": "Morad Al-Rowaihi",
             "email": "m.alrowaihi@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Alrowaihi\\GoogleMapsLocationPicker\\": "src/"
+        }
+    }
 }
