@@ -1,11 +1,11 @@
 <?php
 
-namespace Alrowaihi\AlrowaihiGoogleMapLocationPicker;
+namespace Alrowaihi\GoogleMapsLocationPicker;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 
-class AlrowaihiGoogleMapLocationPickerProvider extends PackageServiceProvider
+class GoogleMapsLocationPickerProvider extends PackageServiceProvider
 {
 public function configurePackage(Package $package): void
     {
