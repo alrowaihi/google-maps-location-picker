@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Alrowaihi\\GoogleMapsLocationPicker\\": "src/"
+            "Alrowaihi\\GoogleMapsLocationPicker\\": "src"
         }
     },
     "extra": {
